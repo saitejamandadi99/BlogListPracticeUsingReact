@@ -8,7 +8,7 @@ const UserInfo = () => (
       alt="profile"
       className="userImage"
     />
-    <h1 className="userName">Wade Warrren </h1>
+    <h1 className="userName">Wade Warren</h1>
     <p className="userDetails">Software Developer at UK</p>
   </div>
 )
